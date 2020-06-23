@@ -3,7 +3,7 @@
 <head>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCJspiqE-Hc6ZWU68r0I-TMk2dBu8wo3GU">
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAOy9sYwBg6oKqE4am4RUF0QjCCgHhkquA">
     </script>
   	<script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.24/gmaps.js"></script>
 
